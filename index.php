@@ -164,6 +164,7 @@ $result_string_dosage = implodeIt($dosageArray);
 $result_string_nutrition = implodeIt($nutritionArray);
 $result_string_hydration = implodeIt($hydrationArray);
 $result_string_hydrationamount = implodeIt($hydrationAmountArray);
+
 //$result_string2 = 'A';
 //$result_string = 'THISISTEXT52Q';//AbnormalSLSLSinvoluntarySPSPSmuscleSPSPSmovementsQZQZQ0DJDJD35QZQZQAngerSLSLSyellingSLSLSrageSLSLScombativeQZQZQ0DJDJD28QZQZQAnxietyQZQZQ0DJDJD25QZQZQAttentionDSDSDdifficultyQZQZQ0//DJDJD20QZQZQBehavioralSPSPSproblemsQZQZQ0DJDJD63QZQZQBloatingQZQZQ0DJDJD57QZQZQChestSPSPSpainQZQZQ0DJDJD21QZQZQCognitiveSPSPSprocessingSPSPSissuesQZQZQ0DJDJD38QZQZQColdSPSPSintoleranceQZQZQ0DJDJD11QZQZQConfusionQZQZQ0DJDJD61QZQZQConstipationQZQZQ0DJDJD33QZQZQCryingQZQZQ0DJDJD71QZQZQDehydrationQZQZQ0DJDJD29QZQZQDepressionQZQZQ0DJDJD62QZQZQDiarrheaQZQZQ0DJDJD56QZQZQDifficultySPSPSbreathingQZQZQ0DJDJD55QZQZQDifficultySPSPSchewingQZQZQ0DJDJD54QZQZQDifficultySPSPSeatingQZQZQ1DJDJD10QZQZQDifficultySPSPSfallingSPSPSasleepQZQZQ0DJDJD53QZQZQDifficultySPSPSswallowingQZQZQ0DJDJD9QZQZQDifficultySPSPSwakingSPSPSupQZQZQ0DJDJD12QZQZQDifficultySPSPSwithSPSPSlanguageSPSPSorSPSPSwordsQZQZQ0DJDJD76QZQZQDroolingQZQZQ0DJDJD44QZQZQDroopySPSPSeyelidsQZQZQ0DJDJD75QZQZQDrySPSPSmouthQZQZQ0DJDJD49QZQZQExerciseSPSPSintoleranceQZQZQ0DJDJD6QZQZQFatigueQZQZQ0DJDJD79QZQZQFluDSDSDlikeSPSPSsymptomsQZQZQ0DJDJD73QZQZQGallbladderSPSPSdysfunctionQZQZQ0DJDJD69QZQZQGastricSPSPSdysmotilityQZQZQ0DJDJD46QZQZQGeneralizedSPSPSweaknessDSDSDSPSPSwholeSPSPSbodyQZQZQ0DJDJD14QZQZQHeadacheQZQZQ0DJDJD37QZQZQHeatSPSPSintoleranceQZQZQ0DJDJD24QZQZQHyperactivityQZQZQ0DJDJD42QZQZQInabilitySPSPStoSPSPSmoveSPSPSeyesSPSPSnormallyQZQZQ0DJDJD58QZQZQIrregularSPSPSheartbeatQZQZQ0DJDJD72QZQZQIrritableSPSPSbowelQZQZQ0DJDJD5QZQZQLackSPSPSofSPSPScoordinationQZQZQ0DJDJD23QZQZQLanguageSPSPSregressionQZQZQ0DJDJD18QZQZQLegSPSPSPainSPSPS(largeSPSPSmuscleSPSPSgroups)QZQZQ0DJDJD7QZQZQLegsSPSPSfeelingSPSPSQUQUQheavyQUQUQQZQZQ0DJDJD68QZQZQLimbsSPSPSQUQUQfallSPSPSasleepQUQUQSPSPSeasilyQZQZQ0DJDJD78QZQZQLossSPSPSofSPSPSfeelingSLSLSnumbnessQZQZQ0DJDJD27QZQZQMemorySPSPSlossDSDSDSPSPSlongDSDSDtermQZQZQ0DJDJD26QZQZQMemorySPSPSlossDSDSDSPSPSshortDSDSDtermQZQZQ1DJDJD15QZQZQMigraineQZQZQ0DJDJD32QZQZQMoodSPSPSdisturbancesQZQZQ0DJDJD3QZQZQMuscleSPSPStwitchingQZQZQ0DJDJD47QZQZQMuscleSPSPSweaknessDSDSDSPSPSlowerSPSPSbodyQZQZQ0DJDJD48QZQZQMuscleSPSPSweaknessDSDSDSPSPSupperSPSPSbodyQZQZQ0DJDJD59QZQZQNauseaQZQZQ0DJDJD19QZQZQNeckSPSPSpainQZQZQ0DJDJD65QZQZQPainSPSPSwithSPSPSurinationQZQZQ0DJDJD13QZQZQPainDSDSDSPSPSgeneralQZQZQ0DJDJD74QZQZQPancreaticSPSPSdysfunctionQZQZQ0DJDJD43QZQZQPoorSPSPSvisualSPSPSfocusSPSPSandSPSPSeyeSPSPSfatigueQZQZQ0DJDJD31QZQZQPsychosisQZQZQ0DJDJD77QZQZQRashesSPSPSorSPSPSskinSPSPSdiscolorationSLSLSmottlingQZQZQ0DJDJD64QZQZQ//RefluxQZQZQ0DJDJD70QZQZQRefusalSPSPSofSPSPSfoodQZQZQ0DJDJD34QZQZQScreamingSLSLSfeelingSPSPSoutDSDSDofDSDSDcontrolQZQZQ0DJDJD1QZQZQSeizureQZQZQ0DJDJD39QZQZQShiveringQZQZQ0DJDJD50QZQZQShortnessSPSPSofSPSPSbreathSPSPSatSPSPSrestQZQZQ0DJDJD51QZQZQShortnessSPSPSofSPSPSbreathSPSPSuponSPSPSexertionQZQZQ0DJDJD36QZQZQSleepSPSPSdisruptionDSDSDSPSPSgeneralQZQZQ0DJDJD8QZQZQSluggishQZQZQ0DJDJD22QZQZQSocialSPSPSregressionQZQZQ0DJDJD16QZQZQStomachacheDSDSDSPSPSacuteQZQZQ0DJDJD17QZQZQStomachacheDSDSDSPSPSgeneralizedQZQZQ0DJDJD2QZQZQStrokeDSDSDlikeSPSPSepisodeQZQZQ0DJDJD41QZQZQSweatingSPSPSlessSPSPSthanSPSPSnormalQZQZQ0DJDJD40QZQZQSweatingSPSPSmoreSPSPSthanSPSPSnormalQZQZQ0DJDJD67QZQZQTinglingSPSPSinSPSPSarmsSLSLSlegsSLSLStoesSLSLSfingersQZQZQ0DJDJD4QZQZQTremorsSPSPSorSPSPSshakinessQZQZQ0DJDJD45QZQZQVisionSPSPSlossQZQZQ0DJDJD60QZQZQVomitingQZQZQ0DJDJD30QZQZQWithdrawalQZQZQ0';
 //$result_string = 'THISISTEXT66QZQZQAbnormalSPSPSstoolQZQZQ0DJDJD52QZQZQAbnormalSLSLSinvoluntarySPSPSmuscleSPSPSmovementsQZQZQ0DJDJD35QZQZQAngerSLSLSyellingSLSLSrageSLSLScombativeQZQZQ0DJDJD28QZQZQAnxietyQZQZQ0DJDJD25QZQZQAttentionDSDSDdifficultyQZQZQ0DJDJD20QZQZQBehavioralSPSPSproblemsQZQZQ0DJDJD63QZQZQBloatingQZQZQ0DJDJD57QZQZQChestSPSPSpainQZQZQ0DJDJD21QZQZQCognitiveSPSPSprocessingSPSPSissuesQZQZQ0DJDJD38QZQZQColdSPSPSintoleranceQZQZQ0DJDJD11QZQZQConfusionQZQZQ0DJDJD61QZQZQConstipationQZQZQ0DJDJD33QZQZQCryingQZQZQ0DJDJD71QZQZQDehydrationQZQZQ0DJDJD29QZQZQDepressionQZQZQ0DJDJD62QZQZQDiarrheaQZQZQ0DJDJD56QZQZQDifficultySPSPSbreathingQZQZQ0DJDJD55QZQZQDifficultySPSPSchewingQZQZQ0DJDJD54QZQZQDifficultySPSPSeatingQZQZQ1DJDJD10QZQZQDifficultySPSPSfallingSPSPSasleepQZQZQ0DJDJD53QZQZQDifficultySPSPSswallowingQZQZQ0DJDJD9QZQZQDifficultySPSPSwakingSPSPSupQZQZQ0DJDJD12QZQZQDifficultySPSPSwithSPSPSlanguageSPSPSorSPSPSwordsQZQZQ0DJDJD76QZQZQDroolingQZQZQ0DJDJD44QZQZQDroopySPSPSeyelidsQZQZQ0DJDJD75QZQZQDrySPSPSmouthQZQZQ0DJDJD49QZQZQExerciseSPSPSintoleranceQZQZQ0DJDJD6QZQZQFatigueQZQZQ0DJDJD79QZQZQFluDSDSDlikeSPSPSsymptomsQZQZQ0DJDJD73QZQZQGallbladderSPSPSdysfunctionQZQZQ0DJDJD69QZQZQGastricSPSPSdysmotilityQZQZQ0DJDJD46QZQZQGeneralizedSPSPSweaknessDSDSDSPSPSwholeSPSPSbodyQZQZQ0DJDJD14QZQZQHeadacheQZQZQ0DJDJD37QZQZQHeatSPSPSintoleranceQZQZQ0DJDJD24QZQZQHyperactivityQZQZQ0DJDJD42QZQZQInabilitySPSPStoSPSPSmoveSPSPSeyesSPSPSnormallyQZQZQ0DJDJD58QZQZQIrregularSPSPSheartbeatQZQZQ0DJDJD72QZQZQIrritableSPSPSbowelQZQZQ0DJDJD5QZQZQLackSPSPSofSPSPScoordinationQZQZQ0DJDJD23QZQZQLanguageSPSPSregressionQZQZQ0DJDJD18QZQZQLegSPSPSPainSPSPS(largeSPSPSmuscleSPSPSgroups)QZQZQ0DJDJD7QZQZQLegsSPSPSfeelingSPSPSQUQUQheavyQUQUQQZQZQ0DJDJD68QZQZQLimbsSPSPSQUQUQfallSPSPSasleepQUQUQSPSPSeasilyQZQZQ0DJDJD78QZQZQLossSPSPSofSPSPSfeelingSLSLSnumbnessQZQZQ0DJDJD27QZQZQMemorySPSPSlossDSDSDSPSPSlongDSDSDtermQZQZQ0DJDJD26QZQZQMemorySPSPSlossDSDSDSPSPSshortDSDSDtermQZQZQ1DJDJD15QZQZQMigraineQZQZQ0DJDJD32QZQZQMoodSPSPSdisturbancesQZQZQ0DJDJD3QZQZQMuscleSPSPStwitchingQZQZQ0DJDJD47QZQZQMuscleSPSPSweaknessDSDSDSPSPSlowerSPSPSbodyQZQZQ0DJDJD48QZQZQMuscleSPSPSweaknessDSDSDSPSPSupperSPSPSbodyQZQZQ0DJDJD59QZQZQNauseaQZQZQ0DJDJD19QZQZQNeckSPSPSpainQZQZQ0DJDJD65QZQZQPainSPSPSwithSPSPSurinationQZQZQ0DJDJD13QZQZQPainDSDSDSPSPSgeneralQZQZQ0DJDJD74QZQZQPancreaticSPSPSdysfunctionQZQZQ0DJDJD43QZQZQPoorSPSPSvisualSPSPSfocusSPSPSandSPSPSeyeSPSPSfatigueQZQZQ0DJDJD31QZQZQPsychosisQZQZQ0DJDJD77QZQZQRashesSPSPSorSPSPSskinSPSPSdiscolorationSLSLSmottlingQZQZQ0DJDJD64QZQZQRefluxQZQZQ0DJDJD70QZQZQRefusalSPSPSofSPSPSfoodQZQZQ0DJDJD34QZQZQScreamingSLSLSfeelingSPSPSoutDSDSDofDSDSDcontrolQZQZQ0DJDJD1QZQZQSeizureQZQZQ0DJDJD39QZQZQShiveringQZQZQ0DJDJD50QZQZQShortnessSPSPSofSPSPSbreathSPSPSatSPSPSrestQZQZQ0DJDJD51QZQZQShortnessSPSPSofSPSPSbreathSPSPSuponSPSPSexertionQZQZQ0DJDJD36QZQZQSleepSPSPSdisruptionDSDSDSPSPSgeneralQZQZQ0DJDJD8QZQZQSluggishQZQZQ0DJDJD22QZQZQSocialSPSPSregressionQZQZQ0DJDJD16QZQZQStomachacheDSDSDSPSPSacuteQZQZQ0DJDJD17QZQZQStomachacheDSDSDSPSPSgeneralizedQZQZQ0DJDJD2QZQZQStrokeDSDSDlikeSPSPSepisodeQZQZQ0DJDJD41QZQZQSweatingSPSPSlessSPSPSthanSPSPSnormalQZQZQ0DJDJD40QZQZQSweatingSPSPSmoreSPSPSthanSPSPSnormalQZQZQ0DJDJD67QZQZQTinglingSPSPSinSPSPSarmsSLSLSlegsSLSLStoesSLSLSfingersQZQZQ0DJDJD4QZQZQTremorsSPSPSorSPSPSshakinessQZQZQ0DJDJD45QZQZQVisionSPSPSlossQZQZQ0DJDJD60QZQZQVomitingQZQZQ0DJDJD30QZQZQWithdrawalQZQZQ0';
@@ -174,6 +175,13 @@ $result_string_hydrationamount = implodeIt($hydrationAmountArray);
 
 
 <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js"></script>
+<style type="text/css">
+.ui-collapsible {
+    margin : 10px 10px;
+    width: 300px;
+    font: 10px;
+}
+</style>
 <SCRIPT language="javascript">
 
 
@@ -221,9 +229,15 @@ var symptomsArray = new Array();
 var entryArray = new Array();
 var currentItemType = 1;
 
+
+
 var result_string = <?php echo json_encode($result_string) ?>;
 var result_string_medication = <?php echo json_encode($result_string_medication) ?>;
-//alert(result_string);
+var result_string_dosage = <?php echo json_encode($result_string_dosage) ?>;
+//var result_string_nutrition = <?php echo json_encode($result_string_nutrition) ?>;
+//var result_string_hydration = <?php echo json_encode($result_string_hydration) ?>;
+//var result_string_hydrationamount = <?php echo json_encode($result_string_hydrationamount) ?>;
+
 
 
 //alert (typeof <?= $result_string ?>)
@@ -231,10 +245,21 @@ var result_string_medication = <?php echo json_encode($result_string_medication)
 
 var symptomsArray = arrayItDifferently(result_string);
 var medicationsArray = arrayItDifferently(result_string_medication);
+
+
+
 var dosageArray = arrayItDifferently(result_string_dosage);
+
+
+
+/*
+
+
 var nutritionArray = arrayItDifferently(result_string_nutrition);
 var hydrationArray = arrayItDifferently(result_string_hydration);
 var hydrationAmountArray = arrayItDifferently(result_string_hydrationamount);
+*/
+
 
 //alert(medicationsArray.length);
 //alert(symptomsArray.length);
@@ -560,10 +585,47 @@ if (whichffview == "aeseverityview")
 	if (document.getElementById("EnType").value == 2)
 	{
 		//make sure a medication has been chosen before selecting dosage
+
+	//existingdosageview	
+	if (document.getElementById("EnSiID").value == 0)
+		alert("Please select a medication first.");
+	else
+	{
+	var dosageCount = 0;
+	var whichMedication = document.getElementById("EnSiID").value;
+	
+	
+
+	for (var i=0; i<dosageArray.length; i++)
+	{
+		
+		
+		alert("making it here 11");
+		if (dosageArray[i][0] == whichMedication)
+		{
+			
+			dosageCount = 1;
+			alert("making it here 26");
+		}
+		
+	}
+
+
+	alert("making it here 2");
+	if (dosageCount == 0)
+		document.getElementById("existingdosageview").style.display = 'none';
+	else
+		document.getElementById("existingdosageview").style.display = '';
+
 	toggle("aedosageview",0,0);
 	togglenewdosagebutton(0);
 	refresh("aedosageselectoptions");
+
+	alert("making it here 3");
 	}
+	}
+
+	alert("making it here 4");
 }
 
 else
@@ -619,7 +681,8 @@ document.getElementById("togglenewdosagenobuttoncircle").className='circlegold';
 document.getElementById("togglenewdosageyesbuttoncircle").className='circlegray';
 document.getElementById("togglenewdosagenobutton").className='toggleswitchbuttonred';
 document.getElementById("togglenewdosageyesbutton").className='toggleswitchbuttongray';
-document.getElementById("newdosageview").style.display = 'none';
+document.getElementById("aedosageselectoptions").style.display = 'none';
+//document.getElementById("newdosageview").style.display = 'none';
 }
 if (sideClicked == 1)
 {
@@ -627,7 +690,7 @@ document.getElementById("togglenewdosagenobuttoncircle").className='circlegray';
 document.getElementById("togglenewdosageyesbuttoncircle").className='circlegold';
 document.getElementById("togglenewdosagenobutton").className='toggleswitchbuttongray';
 document.getElementById("togglenewdosageyesbutton").className='toggleswitchbuttongreen';
-document.getElementById("newdosageview").style.display = '';
+document.getElementById("aedosageselectoptions").style.display = '';
 }
 }
 
@@ -714,6 +777,7 @@ obj.innerHTML = 'Add to Favorite Symptoms';
 if (document.getElementById("EnType").value == 2)
 {
 
+
 var medicationselect = document.getElementById("aemedicationselect");
 var SiID = medicationselect[medicationselect.selectedIndex].value;
 var isFavorite = 0;
@@ -723,6 +787,8 @@ for (var i=0; i<medicationsArray.length; i++)
 if (medicationsArray[i][0] == SiID)
 isFavorite = medicationsArray[i][2];
 }
+
+
 
 var obj = document.getElementById("ahreffavoritemedications");
 
@@ -778,8 +844,7 @@ enqtyalert = 'Please select an amount.';
 if (thename == "addeditview")
 {
 readyToToggle = 0;
-if (document.getElementById("EnID").value == 0) /*new entry*/
-{
+
 if (document.getElementById("EnSiID").value == 0)
 alert(ennamealert); //don't delete
 else if (document.getElementById("EnQty").value == 0)
@@ -820,12 +885,8 @@ ajaxrequest('ajaxfunctions.php', 2, allValuesConcatenated, notes, -1);
 
 }
 
-}
-else /*edit entry*/
-{
 
 
-}
 
 }
 
@@ -951,6 +1012,52 @@ document.getElementById("EnNotes").value = document.getElementById("aenotestexta
 
 
 document.getElementById("ffview5").innerHTML = document.getElementById("EnNotes").value;
+
+}
+
+if (thename == "aedosageview")
+{
+	//newdosageamount
+	//newdosageunitselect
+	//dave next
+
+if (1 == 1)
+{
+document.getElementById("EnQty").value = document.getElementById("newdosageamount").value;
+document.getElementById("EnUnID").value = document.getElementById("newdosageunitselect").selectedIndex + 1;
+}
+else
+{
+
+var selectedvalue = document.getElementById("aedosageselect")[document.getElementById("aedosageselect").selectedIndex].value; 
+
+
+
+for (var i=0; i<dosageArray.length; i++) {
+if (selectedvalue == dosageArray[i][1])
+{
+
+	document.getElementById("EnQty").value = dosageArray[i][1];
+	document.getElementById("EnUnID").value = dosageArray[i][2];
+	
+}
+
+}
+
+
+
+}
+
+var intPart = document.getElementById("EnQty").value;
+var unitPart = '';
+
+if (document.getElementById("EnUnID").value == 1)
+	unitPart = ' ml';
+if (document.getElementById("EnUnID").value == 2)
+	unitPart = ' mg';
+
+
+document.getElementById("ffview4").innerHTML = intPart + unitPart;
 
 }
 
@@ -1305,6 +1412,7 @@ for (var i=0; i<thisArray.length; i++) {
    	
    	//alert(thisArray[i][1]);
    	
+   	var EnType = thisArray[i][2];
    	
    	
    	var dateInt = parseInt(thisArray[i][3]);
@@ -1328,6 +1436,10 @@ for (var i=0; i<thisArray.length; i++) {
    	
 
    	var abbrevName = '';
+
+   	if (EnType == 1)
+   	{
+
    	for (var j=0; j<symptomsArray.length; j++)
 	{
 	if (symptomsArray[j][0] == EnSiID)
@@ -1338,6 +1450,22 @@ for (var i=0; i<thisArray.length; i++) {
 	}
 	}
 
+	}
+
+	if (EnType == 2)
+   	{
+
+   	for (var j=0; j<medicationsArray.length; j++)
+	{
+	if (medicationsArray[j][0] == EnSiID)
+	{
+	
+	abbrevName = medicationsArray[j][1];
+	
+	}
+	}
+
+	}
 	
 
    	if (abbrevName.length > 16)
@@ -1347,8 +1475,22 @@ for (var i=0; i<thisArray.length; i++) {
    	
    	htmlString += "<div class='svname'>" + abbrevName + "</div>";
    	
-   	htmlString += "<div class='svseverity'>" + thisArray[i][5] + " (" + nameForSeverity(thisArray[i][5]) + ")</div>";
+   	htmlString += "<div class='svseverity'>" + thisArray[i][5];
+
+   	if (EnType == 1)
+		htmlString += " (" + nameForSeverity(thisArray[i][5]) + ")</div>";
+	if (EnType == 2)
+	{
+		if (thisArray[i][6] == 1)
+			htmlString += ' ml</div>';
+		if (thisArray[i][6] == 2)
+			htmlString += ' mg</div>';
+
+	}
    
+
+
+
    	htmlString += "<a href='javascript:editEntry(" + EnID + ")'><img class='svpencil' src='icons/Pencil.png'/></a>";
    	
 	htmlString += "</div>";
@@ -1752,6 +1894,15 @@ toggle("spinner",0,1);
 ajaxtogglefavoritesymptom(UsID,SiID);
 }
 
+function addToFavoriteMedicationsPressed()
+{
+var medicationselect = document.getElementById("aemedicationselect");
+var SiID = medicationselect[medicationselect.selectedIndex].value;
+var UsID = document.getElementById("UsIDInput").value;
+toggle("spinner",0,1);
+ajaxtogglefavoritesymptom(UsID,SiID);
+}
+
 function ajaxtogglefavoritesymptom(UsID,SiID) {
   var request =  get_XmlHttp();		// call the function for the XMLHttpRequest instance
   var the_data = 'UsID='+UsID+'&SiID='+SiID;
@@ -1764,6 +1915,10 @@ function ajaxtogglefavoritesymptom(UsID,SiID) {
 	
 
 if (request.responseText.length > 0)
+{
+
+
+if (document.getElementById("EnType").value == 1)
 {
 symptomsArray = arrayItDifferently(request.responseText);
 
@@ -1795,6 +1950,43 @@ symptomselect[symptomselect.selectedIndex].text = '*' + sympName + '*';
 }
 
 toggleAddToFavoritesButton();
+}
+else
+{
+medicationsArray = arrayItDifferently(request.responseText);
+
+
+var currentClass = document.getElementById("ahreffavoritemedications").className; //='coolbuttonlargered')
+var symptomselect = document.getElementById("aemedicationselect");
+
+
+
+
+var SiID = symptomselect[symptomselect.selectedIndex].value;
+var sympName = '';
+
+for (var i=0; i<medicationsArray.length; i++)
+{
+if (medicationsArray[i][0] == SiID)
+sympName =  medicationsArray[i][1];
+}
+
+if (currentClass == 'coolbuttonlargered')
+{
+
+symptomselect[symptomselect.selectedIndex].text = sympName;
+
+}
+else
+{
+symptomselect[symptomselect.selectedIndex].text = '*' + sympName + '*';
+}
+
+toggleAddToFavoritesButton();
+}
+
+
+
 
 }
 
@@ -1811,9 +2003,44 @@ document.getElementById("aenotestextarea").value = '';
 
 function menuButtonPressed(buttonInt)
 {
+if (buttonInt == 0)
+{
+toggle("aboutView",0,1);
+}
+if (buttonInt == 1)
+{
 toggle("trackerView",0,1);
 refreshToday();
 }
+if (buttonInt == 2)
+{
+alert("This is not available yet.");
+}
+}
+
+function createReportPressed(buttonInt)
+{
+toggle("reportView",0,1);
+}
+
+
+function reportButtonPressed(buttonInt)
+{
+if (buttonInt == 0)
+{
+toggle("aboutView",0,1);
+}
+if (buttonInt == 1)
+{
+toggle("trackerView",0,1);
+refreshToday();
+}
+if (buttonInt == 2)
+{
+alert("This is not available yet.");
+}
+}
+
 
 function returnDate(dateint,returnType)
 {
@@ -1904,8 +2131,16 @@ return loc_array;
     <link href="./css/font-awesome.css" rel="stylesheet">
     
     <link href="./css/adminia.css" rel="stylesheet"> 
+    
     <link href="./css/datepicker.css" rel="stylesheet"> 
-    <!--<link href="./css/adminia-responsive.css" rel="stylesheet"> -->
+    
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+<script src="http://jquerymobile.com/demos/1.0b1/experiments/themeswitcher/jquery.mobile.themeswitcher.js"></script>
+  <script src="./js/highcharts.js" rel="stylesheet"></script> 
+  <script src="./js/modules/exporting.js" rel="stylesheet"></script> 
+  <!--<link href="./css/adminia-responsive.css" rel="stylesheet"> -->
   
     
 
@@ -2692,6 +2927,11 @@ top: 120px;
 position: absolute;
 '>Add to Favorite Medications</a>
 
+<div class='headerbarviewgray' style='top: 200px; position: absolute;'>
+				Add a New Medication
+				
+				</div>
+
 
 <div id='togglenewmedicationswitch' class='toggleswitch' style='left: 30px;
 top: 260px;
@@ -2841,22 +3081,48 @@ position: absolute;
 
 <div id='aedosageview' class='calview' style='display: none'>
 <div class='headerbarview'>
-				Select Dosage
+				Enter Dosage
 				
 				</div>
 				<br>	
 				
 				
-<div id='aedosageselectoptions'>
-<select name='aedosageselect' id='aedosageselect' class='selectstylelarge'>
 
+
+
+
+<div id='newdosageview'>
+<input type='text' id='newdosageamount' onclick='removeplaceholdertext(3)' style="
+text-align: center;
+width:120px;
+top: 90px;
+left: 55px;
+height: 50px;
+position: absolute;"
+value = 'Enter amount here'></input>
+
+
+<select name='newdosageunit' id='newdosageunitselect' class='selectstylesmall' style="
+top: 90px;
+left: 195px;
+height: 50px;
+position: absolute;">
+<option value='1'>ml</option>
+<option value='2'>mg</option>
 
 </select>
+
 </div>
+
+
+
 <br><br>
 
-
-
+<div id='existingdosageview'>
+<div class='headerbarviewgray' style='top: 200px; position: absolute;'>
+				Choose an Existing Dosage
+				
+				</div>
 
 
 <div id='togglenewdosageswitch' class='toggleswitch' style='left: 30px;
@@ -2879,28 +3145,21 @@ position: absolute;
 </div>
 </div>
 
-<div id='newdosageview'>
-<input type='text' id='newdosageamount' onclick='removeplaceholdertext(3)' style="
-text-align: center;
-width:120px;
-top: 320px;
-left: 60px;
-height: 50px;
-position: absolute;"
-value = 'Enter amount here'></input>
 
 
-<select name='newdosageunit' id='newdosageunitselect' class='selectstylesmall' style="
+<div id='aedosageselectoptions' style='
 top: 320px;
-left: 180px;
-height: 50px;
-position: absolute;">
-<option value='1'>ml</option>
-<option value='2'>mg</option>
+position: absolute;'
+>
+<center>
+<select name='aedosageselect' id='aedosageselect' class='selectstylelarge'>
+
 
 </select>
-
+</center>
 </div>
+</div>
+
 
 <a href='#' onClick='cancel("aedosageview",0)' class='coolbutton' style='left: 10px;
 top: 402px;
@@ -2915,12 +3174,65 @@ position: absolute;
 </div>
 
 
+<div id='symptomChartView' class='calview' style='display: none;'>
+
+<div id="hccontainer" style="width:90%; height:300px;"></div>
+
+
+</div>
+
+
+<div id='reportView' class='calview' style='display: none;
+background: url(../img/body-bg.png) repeat 0 0;
+'>
+<div class='headerbarview'>
+
+				<img style='left: 20px;
+top: 5px;
+position: absolute;' src='img/back_button.png' onClick='toggle("reportView",0,0)' width='50' height='33'/>
+
+
+				Create Report
+				
+				</div>
+				
+
+
+
+
+							
+
+
+
+<div onClick='reportButtonPressed(0)' class='menubuttonlarge' style='
+left: 70px;
+top: 60px;'>
+
+<div class='menubuttonlargeicon'>
+<center><img src='icons/symptomcharticon.png' width='80px' height='80px'/></center>
+</div>
+
+<div class='menubuttonlargelabel'>Symptom Chart</div>
+
+</div>
+
+<div onClick='reportButtonPressed(1)' class='menubuttonlarge' style='
+left: 70px;
+top: 250px;'>
+
+<div class='menubuttonlargeicon'>
+<center><img src='icons/fullreporticon.png' width='80px' height='80px'/></center>
+</div>
+
+<div class='menubuttonlargelabel'>Full Report</div>
+
+</div>
 
 
 
 
 
-
+</div>
 
 
 
@@ -3081,15 +3393,368 @@ position: absolute;
 
 				</div> 
 				
+				<a href='javascript:createReportPressed()' class='coolbuttonmediumred' style='left: 30px;
+top: 410px;
+position: absolute;'>Create Report</a>
+				
 				<!-- end of dayview -->
 				<div class='headerbarview'>
 				<!--Tracker! -->
+				
+		
 				
 				
 				</div>
 </div>
 
 
+
+
+
+
+
+
+
+<div id='aboutView' style='width:300px; 
+			border: 2px solid #000000;
+			background: url(../img/body-bg.png) repeat 0 0;
+			position: absolute;
+			top: 0px;
+			left:0;
+        right:0;
+			margin-left:auto;
+        margin-right:auto;
+        display: none;
+			'>
+				
+					
+				<div class='headerbarview'>
+
+				<img style='left: 20px;
+top: 5px;
+position: absolute;' src='img/back_button.png' onClick='toggle("aboutView",0,0)' width='50' height='33'/>
+
+
+				About Us 
+				
+				</div>
+
+				
+				<div style="width:300px; height: 364px; position: relative;">
+				
+				<div style="width:300px; top: 10px; height: 30px; position: relative;
+				font-size: 20px;
+text-align:center;
+font-weight: bold;">
+				Our Help-Line
+				</div>
+				<div style="width:300px; top: 10px; height: 30px; position: relative;
+				font-size: 24px;
+text-align:center;
+font-weight: bold;
+color: #44AA11;">
+				1-888-MITO-411
+				</div>
+				<div style="width:300px; top: 76px; height: 30px; position: absolute;
+				font-size: 20px;
+text-align:center;
+font-weight: bold;">
+				Mission Statement
+				</div>
+				<div style="width:280px; left: 10px; top: 100px; height: 30px; position: absolute;
+				font-size: 15px;
+text-align:center;
+font-weight: bold;
+color: #44AA11;">
+				MitoAction's mission is to improve quality of life for all who are affected by Mitochondrial disorders through support, education, and advocacy initiatives.
+				</div>
+				<div style="width:150px; top: 215px; height: 30px; position: absolute;
+				font-size: 16px;
+text-align:center;
+font-weight: bold;
+color: #000000;">
+				Feedback
+				</div>
+				<div style="width:150px; top: 238px; position: absolute;
+				font-size: 11px;
+				line-height: 1.5;
+text-align:center;
+font-weight: bold;
+color: #44AA11;">
+				Have any questions or comments? Send us an email at <a href='mailto:info@mitoaction.org'>info@mitoaction.org</a>
+				</div>
+				<div style="width:150px; top: 215px; left: 150px; height: 30px; position: absolute;
+				font-size: 16px;
+text-align:center;
+font-weight: bold;
+color: #000000;">
+				Donate
+				</div>
+				<div style="width:150px; top: 238px; left: 150px; position: absolute;
+				font-size: 11px;
+				line-height: 1.5;
+text-align:center;
+font-weight: bold;
+color: #44AA11;">
+				Support this app and other programs by making a $5 donation at <a href='http://mitoaction.org/donate' target='_blank'>mitoaction.org/donate</a>
+				</div>
+				
+				
+				
+				<a href='#' onClick='toggle("FAQPage",0,0)' class='coolbuttonlarge' style='
+top: 316px;
+left: 30px;
+position: absolute;
+'>View MitoAction FAQ's</a>
+				
+				
+				
+				</div>
+
+				
+				<!-- end of aboutview -->
+				
+</div>
+
+
+<div id='FAQPage' style='width:300px; 
+			border: 2px solid #000000;
+			background: url(../img/body-bg.png) repeat 0 0;
+			position: absolute;
+			top: 0px;
+			left:0;
+        right:0;
+			margin-left:auto;
+        margin-right:auto;
+        display: none;
+        height: 408px;
+			'>
+<div class='headerbarview'>
+
+				<img style='left: 20px;
+top: 5px;
+position: absolute;' src='img/back_button.png' onClick='toggle("FAQPage",0,0)' width='50' height='33'/>
+
+
+				MitoAction FAQ's 
+				
+				</div>
+<div data-role="page" style='width:300px; height: 364px; top: 44px; position: absolute;'>
+<!--
+	<div data-role="header">
+		<h1>My Title</h1>
+	</div>
+	-->
+
+
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What are Mitochondria?</font></h3>
+   <h3><font color='44AA11'>What are Mitochondria?</font></h3>
+  
+  <div style='text-align: left;'>
+  <ul>
+<li>Mitochondria are tiny organelles found in almost every cell in the body.</li>
+<li>They are known as the "powerhouse of the cell." </li>
+<li>They are responsible for creating more than 90% of cellular energy. </li>
+<li>They are necessary in the body to sustain life and support growth. </li>
+<li>They are composed of tiny packages of enzymes that turn nutrients into cellular energy </li>
+<li>Mitochondrial failure causes cell injury that leads to cell death. When multiple organ cells die there is organ failure.</li>
+</ul>
+</div>
+<center>
+Watch the 5-minute video, "How Energy is Made"<br><br>
+<object style="height: 183px; width: 300px"><param name="movie" value="http://www.youtube.com/v/6_2oN1oTK-g?version=3&feature=player_embedded"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/6_2oN1oTK-g?version=3&feature=player_embedded" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="300" height="183"></object>
+</center>
+   
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What is Mitochondrial Disease?</font></h3>
+   <h3><font color='44AA11'>What is Mitochondrial Disease?</font></h3>
+   <ul>
+<li>Mitochondrial disease is a chronic, genetic disorder that occurs when the mitochondria of the cell fails to produce enough energy for cell or organ function.</li>
+<li>The incidence about 1:3000-4000 individuals in the US. This is similar to the incidence of cystic fibrosis of caucasian births in the U.S.</li>
+<li>There are many forms of mitochondrial disease. </li>
+<li>Mitochondrial disease is inherited in a number of different ways </li>
+<li>Mitochondrial disease presents very differently from individual to individual. </li>
+<li>There may be one individual in a family or many individuals affected over a number of generations.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What are the Symptoms of Mitochondrial Disease?</font></h3>
+   <h3><font color='44AA11'>What are the Symptoms of Mitochondrial Disease?</font></h3>
+   <p>The severity of mitochondrial disease symptoms is different from person to person. The most common symptoms are:</p>
+<ul>
+<li>Poor Growth</li>
+<li>Loss of muscle coordination, muscle weakness</li>
+<li>Neurological problems, seizures</li>
+<li>Autism, autistic spectrum, autistic-like features</li>
+<li>Visual and/or hearing problems</li>
+<li>Developmental delays, learning disabilities</li>
+<li>Heart, liver or kidney disease</li>
+<li>Gastrointestinal disorders, severe constipation</li>
+<li>Diabetes</li>
+<li>Increased risk of infection </li>
+<li>Thyroid and/or adrenal dysfunction </li>
+<li>Autonomic dysfunction </li>
+<li>Neuropsychological changes characterized by confusion, disorientation and memory loss. </li>
+</ul>
+</p>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>How common are mitochondrial diseases?</font></h3>
+   <h3><font color='44AA11'>How common are mitochondrial diseases?</font></h3>
+   <ul>
+<li>About one in 4,000 children in the United States will develop mitochondrial disease by the age of 10 years.</li>
+<li>One thousand to 4,000 children per year in the United Sates are born with a type of mitochondrial disease.</li>
+<li>In adults, many diseases of aging have been found to have defects of mitochondrial function. </li>
+<li>These include, but are not limited to, type 2 diabetes, Parkinson's disease, atherosclerotic heart disease, stroke, Alzheimer's disease, and cancer. In addition, many medicines can injure the mitochondria.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What causes mitochondrial disease?</font></h3>
+   <h3><font color='44AA11'>What causes mitochondrial disease?</font></h3>
+   <p>For many patients, mitochondrial disease is an inherited condition that runs in families (genetic). An uncertain percentage of patients acquire symptoms due to other factors, including mitochondrial toxins.</p>
+<p>It is important to determine which type of mitochondrial disease inheritance is present, in order to predict the risk of recurrence for future children. The types of mitochondrial disease inheritance include:</p>
+<ul>
+<li>DNA (DNA contained in the nucleus of the cell) inheritance. Also called autosomal inheritance.                   
+<ul>
+<li>If this gene trait is recessive (one gene from each parent), often no other family members appear to be affected. There is a 25 percent chance of the trait occurring in other siblings.</li>
+<li>If this gene trait is dominant (a gene from either parent), the disease often occurs in other family members. There is a 50 percent chance of the trait occurring in other siblings.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>MtDNA (DNA contained in the mitochondria) inheritance.</font></h3>
+   <h3><font color='44AA11'>MtDNA (DNA contained in the mitochondria) inheritance.</font></h3>
+   <ul>
+<li>There is a 100 percent chance of the trait occurring in other siblings, since all mitochondria are inherited from the mother, although symptoms might be either more or less severe.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>Combination of mtDNA and nDNA defects:</font></h3>
+   <h3><font color='44AA11'>Combination of mtDNA and nDNA defects:</font></h3>
+   <ul>
+<li>Relationship between nDNA and mtDNA and their correlation in mitochondrial formation is unknown</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>Random occurrences</font></h3>
+   <h3><font color='44AA11'>Random occurrences</font></h3>
+   <ul>
+<li>Diseases specifically from deletions of large parts of the mitochondrial DNA molecule are usually sporadic without affecting other family member</li>
+<li>Medicines or other toxic substances can trigger mitochondrial disease</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>How is Mitochondrial Disease Diagnosed?</font></h3>
+   <h3><font color='44AA11'>How is Mitochondrial Disease Diagnosed?</font></h3>
+   <ul>
+<li>There is no reliable and consistent means of diagnosis.</li>
+<li>Diagnosis can be made by one of the few physicians that specializes in mitochondrial disease.</li>
+<li>Diagnosis can be made by blood DNA testing and/or muscle biopsy but neither of these tests are completely reliable.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>How is Mitochondrial Disease Treated?</font></h3>
+   <h3><font color='44AA11'>How is Mitochondrial Disease Treated?</font></h3>
+   <ul>
+<li>Treatment consists of vitamin therapy and conserving energy.</li>
+<li>The goal is to improve symptoms and slow progression of the disease.</li>
+<li>Conserve energy</li>
+<li>Pace activities</li>
+<li>Maintain an ambient environmental temperature</li>
+<li>Avoid exposure to illness</li>
+<li>Ensure adequate nutrition and hydration</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>Misdiagnosis</font></h3>
+   <h3><font color='44AA11'>Misdiagnosis</font></h3>
+   <ul>
+<li>Lack of understanding of the disease and misinterpretation of symptoms can lead to misdiagnosis.</li>
+<li>Further progression of symptoms can occur if the symptoms are missed and opportunities for treatment and support are not recognized.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What are the Challenges of living with Mitochondrial Disease?</font></h3>
+   <h3><font color='44AA11'>What are the Challenges of living with Mitochondrial Disease?</font></h3>
+   <ul>
+<li>Affects multiple organs, affects multiple family members, affects multiple generations.</li>
+<li>Lack of awareness and understanding of the disease</li>
+<li>Families are continuously forces to expend their very limited energy to explain their disease, advocate for themselves and fight for services. </li>
+<li>Mitochondrial disease is often an " invisible disease."                   
+<ul>
+<li>Good day - patients look fine and healthy. They have more energy and appear rested. </li>
+<li>Bad day - - patients appear tired to significantly ill. They are obviously fatigued and/or have significant illness. Repeated "bad days"often lead to decompensation and patients have difficulty returning to baseline.</li>
+</ul>
+</li>
+<li></li>
+<li>Mitochondrial disease is unpredictable. Day to day, hour to hour patients can develop symptoms and their stability can be threatened.</li>
+<li>Difficulties establishing a diagnosis interfere with a patient's ability to obtain adequate recognition, medical care, adequate insurance coverage, healthcare supports and disability services.</li>
+<li>Lack of understanding of the disease and misinterpretation of symptoms can lead to misdiagnosis. Further progression of symptoms can occur if the symptoms are missed and opportunities for treatment and support are not recognized.</li>
+<li>An individual can become symptomatic at any time in life despite the fact that it is inherited.</li>
+<li>It is difficult to diagnose.</li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>What is the Prognosis for Someone?</font></h3>
+   <h3><font color='44AA11'>What is the Prognosis for Someone?</font></h3>
+   <ul>
+<li>The prognosis is variable. Some people live a normal life and are minimally affected, others can be severely compromised with the disease. </li>
+<li>It is completely individualized </li>
+<li>The prognosis is unpredictable. </li>
+</ul>
+</div>
+
+<div data-role="collapsible" data-iconpos="right" data-theme="c">
+   <h3><font color='44AA11'>MitoAction's Goals</font></h3>
+   <h3><font color='44AA11'>MitoAction's Goals</font></h3>
+   <ul>
+<li>To improve quality of life for adults and children affected by mitochondrial disease.</li>
+<li>To internationally raise awareness about mitochondrial disorders, and their relationship to other diseases.</li>
+<li>To provide specifc and practical materials that help patients to manage their symptoms</li>
+<li>To aggregate and connect the international mitochondrial disease community. </li>
+<li>To create tools which empower patients and caregivers to be advocates for themselves or their children. </li>
+</ul>
+</div>
+
+
+<!--
+<div data-role="collapsible-set">
+
+	<div data-role="collapsible" data-collapsed="false" data-iconpos="right">
+	<h3>Section 1</h3>
+	<p>I'm the collapsible set content for section B.</p>
+	</div>
+	
+	<div data-role="collapsible">
+	<h3>Section 2</h3>
+	<p>I'm the collapsible set content for section B.</p>
+	</div>
+	
+</div>
+
+
+	<div data-role="content">	
+		<p>Hello world</p>		
+	</div>
+-->
+</div><!-- /page -->
+</div>
 
 
 <!--
